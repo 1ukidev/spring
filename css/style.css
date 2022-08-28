@@ -6,6 +6,12 @@
     font-size: 2rem;
     font-weight: 600;
     float: none;
+    color: #FFFFFF;
+    transition: .3s;
+}
+
+.navbar-brand:hover {
+    color: #7FFF77;
 }
 
 .navbar-header {
